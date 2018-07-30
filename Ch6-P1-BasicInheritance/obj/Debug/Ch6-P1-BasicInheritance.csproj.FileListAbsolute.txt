@@ -5,3 +5,10 @@ C:\Users\Lenovo\Documents\Projects\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritan
 C:\Users\Lenovo\Documents\Projects\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\obj\Debug\Ch6-P1-BasicInheritance.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\Projects\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\obj\Debug\Ch6-P1-BasicInheritance.exe
 C:\Users\Lenovo\Documents\Projects\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\obj\Debug\Ch6-P1-BasicInheritance.pdb
+C:\Users\Lenovo\Documents\GitHub\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\bin\Debug\Ch6-P1-BasicInheritance.exe.config
+C:\Users\Lenovo\Documents\GitHub\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\bin\Debug\Ch6-P1-BasicInheritance.exe
+C:\Users\Lenovo\Documents\GitHub\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\bin\Debug\Ch6-P1-BasicInheritance.pdb
+C:\Users\Lenovo\Documents\GitHub\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\obj\Debug\Ch6-P1-BasicInheritance.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\obj\Debug\Ch6-P1-BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\obj\Debug\Ch6-P1-BasicInheritance.exe
+C:\Users\Lenovo\Documents\GitHub\Ch6-P1-BasicInheritance\Ch6-P1-BasicInheritance\obj\Debug\Ch6-P1-BasicInheritance.pdb
