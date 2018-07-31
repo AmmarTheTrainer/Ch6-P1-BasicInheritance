@@ -6,8 +6,22 @@ using System.Threading.Tasks;
 
 namespace Ch6_P1_BasicInheritance
 {
+    //class BaseClassOne
+    //{
+
+    //}
+    //class BaseClassTwo
+    //{
+
+    //}
+
+    //class CantWork : BaseClassOne , BaseClassTwo
+    //{
+
+    //}
+
     // MiniVan "is-a" Car
-    class MiniVan : Car
+    sealed class MiniVan : Car
     {
         public void TestMethod()
         {
@@ -19,4 +33,16 @@ namespace Ch6_P1_BasicInheritance
             //currSpeed = 10;
         }
     }
+
+    //class DeluxMiniVan : MiniVan
+    //{
+
+    //}
+
+
+    //// Another error! Cannot extend a class marked as sealed!
+    //class MyString : String
+    //{
+
+    //}
 }

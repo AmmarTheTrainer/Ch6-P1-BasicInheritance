@@ -32,6 +32,12 @@ namespace Ch6_P1_BasicInheritance
             #endregion
 
 
+            #region The sealed Keyword
+
+
+
+            #endregion
+
             Console.ReadLine();
         }
     }
